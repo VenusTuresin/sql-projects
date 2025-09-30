@@ -10,12 +10,6 @@ Each project demonstrates:
 - Integration of SQL results into **Python (Pandas/Matplotlib)** for further analysis  
 
 ---
-# 🐍 Python Projects
-
-This repository showcases my hands-on Python projects in **web scraping, data analysis, automation, and data visualization**.  
-Each project focuses on real-world datasets and delivers clear, actionable insights.
-
----
 
 ## 📂 Projects
 
