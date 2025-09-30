@@ -15,9 +15,9 @@ Each project demonstrates:
 
 ### 1) Analyzing Motorcycle Parts Sales 🏍️ 
 - **Description:** Explore wholesale sales of motorcycle parts across three warehouse sites. The project focuses on calculating monthly net revenue per product line and per warehouse.
-- **Tech Stack:** SQL (MySQL/PostgreSQL), Tableau/Power BI for visualization
+- **Tech Stack:** SQL (MySQL), Python for visualization
 - **Key Learning:** Aggregating and summarizing sales data with *GROUP BY*, monthly trend analysis with SQL date functions, creating reports for revenue streams
-- **Folder:** [books-to-scrape](./books-to-scrape)
+- **Folder:** [motorcycle-parts-sales](./motorcycle-parts-sales)
 
 ### 2) Employee Payroll Management System 💼
 - **Description:** Develop a Payroll Management System using the NYC Payroll dataset to track salaries, job titles, agencies, and work locations.
