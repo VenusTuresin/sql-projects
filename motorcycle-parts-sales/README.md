@@ -88,9 +88,3 @@ cd sql-projects/motorcycle-sales
 .read motorcycle_sales_analysis.sql
 # Open the Jupyter notebook to generate visualizations:
 jupyter notebook motorcycle_sales.ipynb
-
-
-
-
-
-
