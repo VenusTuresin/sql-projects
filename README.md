@@ -23,3 +23,8 @@ Each project demonstrates:
 - Query optimization and safe execution (dry run, billing limits)  
 - Data wrangling with SQL & Python combined  
 - Turning raw query results into **business insights**  
+
+---
+
+## 📌 Notes
+This repository is continuously updated as I complete more projects in Python for Data Science and Automation
