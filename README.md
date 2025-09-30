@@ -12,9 +12,13 @@ Each project demonstrates:
 ---
 
 ## 📂 Projects
-1. **Chicago Crime Dataset Analysis** → Querying tables to extract crime trends, date ranges, and geographic insights.  
-2. **OpenAQ Air Quality Analysis** → Identifying pollution levels, city comparisons, and unit measurements.  
-3. **Hacker News Jobs Analysis** → Exploring job post scores and trends using safe query execution limits.  
+1) Analyzing Motorcycle Parts Sales 🏍️ 
+Description: Explore wholesale sales of motorcycle parts across three warehouse sites. The project focuses on calculating monthly net revenue per product line and per warehouse.
+What I Learned:
+Aggregating and summarizing sales data with GROUP BY
+Monthly trend analysis with SQL date functions
+Creating reports for revenue streams
+Tools: SQL (MySQL/PostgreSQL), Tableau/Power BI for visualization
 
 ---
 
