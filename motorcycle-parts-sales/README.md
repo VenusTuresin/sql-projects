@@ -46,23 +46,27 @@ This project analyzes **wholesale sales data** for a motorcycle parts company op
 # 📈 Data Visualizations
 ## 1️⃣ Grouped bar chart: Product line revenue by month  
 <img width="597" height="495" alt="Ekran Resmi 2025-09-30 21 53 47" src="https://github.com/user-attachments/assets/d1393b68-1788-42e6-b75d-3c475232dc68" />
+
 - In **August**, *Frame & Body* and *Suspension & Traction* generated the highest revenues.  
 - *Engine* products showed a significant drop in **July**.  
 - *Miscellaneous* products consistently underperformed across all months.
   
 ## 2️⃣ Stacked bar chart: Revenue split by warehouse 
 <img width="826" height="400" alt="Ekran Resmi 2025-09-30 22 12 01" src="https://github.com/user-attachments/assets/d9098b21-c0a2-492e-94ae-2f0319136fd8" />
+
 - The **Central warehouse** was the dominant revenue source across nearly all product lines.  
 - The **North warehouse** contributed in some categories but generally ranked second.  
 - The **West warehouse** had limited impact overall, but showed noticeable contributions in *Braking System (July)* and *Suspension & Traction (August)*.  
 
 ## 3️⃣ Line chart: Total monthly revenue trend  
 <img width="717" height="465" alt="Ekran Resmi 2025-09-30 22 11 51" src="https://github.com/user-attachments/assets/6a3ccab1-7fb5-44c0-aa27-8c60680ff381" />
+
 - Revenues in **June** and **July** remained relatively stable.  
 - In **August**, total revenue **increased by over 20%**, reaching its peak — possibly due to seasonal demand or promotional campaigns.  
 
 ## 4️⃣ Pie chart: Revenue share by product line  
 <img width="700" height="563" alt="Ekran Resmi 2025-09-30 22 11 39" src="https://github.com/user-attachments/assets/b82507e2-e6e9-487e-9f77-625fb25e9ba1" />
+
 - The largest shares came from *Frame & Body (24.7%)* and *Suspension & Traction (24.0%)*.  
 - *Electrical System (13.6%)* and *Engine (13.3%)* contributed moderately and in a balanced way.  
 - *Miscellaneous (9.9%)* had the lowest share and may be of less strategic importance.
