@@ -23,7 +23,7 @@ Each project demonstrates:
 - **Description:** Develop a Payroll Management System using the NYC Payroll dataset to track salaries, job titles, agencies, and work locations.
 - **Tech Stack:** SQL (MySQL/PostgreSQL), Tableau/Power BI
 - **Key Learning:** Querying specific salary information using filtering and joins, designing relational database schemas for HR data, creating salary distribution and department-level reports
-- **Folder**: [spotify-top-hits](./spotify-top-hits)
+- **Folder**: [employee-pms](./employee-pms)
 
 ### 3) Blood Bank Management 🩸 
 - **Description:** Manage a blood bank dataset to analyze donors, recipients, and blood type availability. The focus is on optimizing blood supply and ensuring timely allocation.
